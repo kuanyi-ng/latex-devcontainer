@@ -1,0 +1,16 @@
+selected_scheme scheme-basic
+tlpdbopt_install_docfiles 0
+tlpdbopt_install_srcfiles 0
+collection-basic 1
+collection-bibtexextra 1
+collection-binextra 1
+collection-fontsrecommended 1
+collection-fontutils 1
+collection-langcjk 1
+collection-langenglish 1
+collection-langjapanese 1
+collection-latex 1
+collection-latexrecommended 1
+collection-mathscience 1
+collection-pictures 1
+collection-plaingeneric 1
